@@ -123,17 +123,18 @@ print(f"Prediction: {prediction}")
 <img width="675" height="627" alt="Screenshot 2026-02-09 103525" src="https://github.com/user-attachments/assets/bc44959e-e94f-48b2-a10c-ef3727f28690" />
 
 ## OUTPUT
-<img width="581" height="257" alt="Screenshot 2026-02-09 111753" src="https://github.com/user-attachments/assets/24612f31-69a8-469b-959f-0b9b93fc7a3b" />
+
+<img width="348" height="238" alt="Screenshot 2026-02-16 102520" src="https://github.com/user-attachments/assets/0817980f-440d-4900-99fa-4a733f3eb30d" />
 
 
 ### Training Loss Vs Iteration Plot
-<img width="863" height="613" alt="Screenshot 2026-02-09 111839" src="https://github.com/user-attachments/assets/5ed57b15-4c21-493b-b0f0-b7e88ba44ed8" />
 
+<img width="849" height="563" alt="Screenshot 2026-02-16 102531" src="https://github.com/user-attachments/assets/33aa580e-eb32-47e5-a628-bea4ca1bc0c7" />
 
 
 ### New Sample Data Prediction
 
-<img width="441" height="44" alt="image" src="https://github.com/user-attachments/assets/8aa1970b-72eb-4f0b-92a8-e8497fc8647d" />
+<img width="309" height="73" alt="Screenshot 2026-02-16 102538" src="https://github.com/user-attachments/assets/325c92a6-1074-4520-b0e9-85bbb56f1540" />
 
 
 ## RESULT
